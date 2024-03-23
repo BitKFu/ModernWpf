@@ -5,6 +5,8 @@
     <UseWPF>true</UseWPF>
     <LangVersion>8.0</LangVersion>
     <RootNamespace>System.Windows</RootNamespace>
+    <SignAssembly>True</SignAssembly>
+    <AssemblyOriginatorKeyFile>TestAppUtils.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <ItemGroup>
